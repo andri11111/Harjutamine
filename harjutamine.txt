@@ -1,0 +1,2 @@
+GitHub on platvorm, mis pakub Gitil põhinevat veebimajutust ja tööriistu tarkvara arendamiseks ja versioonihalduseks. See on justkui koodi sotsiaalvõrgustik, kus arendajad ja suured tehnoloogiaettevõtted (nagu Google ja Microsoft) saavad teha projektides koostööd, jälgida kõiki tehtud muudatusi ja jagada avalikult või privaatselt oma lähtekoodi.
+
